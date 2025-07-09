@@ -21,7 +21,7 @@ A reusable die class that can simulate any n-sided die.
 - Example:
   ```java
   Die twelveSidedDie = new Die(12);
-````
+``
 
 ### 2. `Player.java`
 
